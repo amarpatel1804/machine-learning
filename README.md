@@ -7,40 +7,40 @@ The Prima Indian Diabetes Dataset has been used in this project, provided by kag
 ⭐ PS: Please do not forget to drop a star on this repo, if you like it!
 
 ## Techniquies Used
-•	Data cleaning
-•	Data Visualization
-•	Machine Learning Modeling
-•	Model Evaluation
+*	Data cleaning
+*	Data Visualization
+*	Machine Learning Modeling
+*	Model Evaluation
 
 ## Algorithm used
 SVM(Support Vector Machine)
 
 ## Features in dataset
-•	Pregnancies - Number of times pregnant
-•	Glucose - Plasma glucose concentration
-•	BloodPressure - Diastolic blood pressure (mm Hg)
-•	SkinThickness - Triceps skin fold thickness (mm)
-•	Insulin - 2-Hour serum insulin (mu U/ml)
-•	BMI - Body mass index
-•	DiabetesPedigreeFunction
-•	Age
+*	Pregnancies - Number of times pregnant
+*	Glucose - Plasma glucose concentration
+*	BloodPressure - Diastolic blood pressure (mm Hg)
+*	SkinThickness - Triceps skin fold thickness (mm)
+*	Insulin - 2-Hour serum insulin (mu U/ml)
+*	BMI - Body mass index
+*	DiabetesPedigreeFunction
+*	Age
 
 ## Target variable
-• Outcome: 0 (no diabetes) or 1 (has diabetes)
+* Outcome: 0 (no diabetes) or 1 (has diabetes)
 
 ## Model Evaluation Methods Used
-•	Accuracy Score
-•	Confusion Matrix
-•	Precision, Recall & f1 Score
-•	ROC AUC Curve
+*	Accuracy Score
+*	Confusion Matrix
+*	Precision, Recall & f1 Score
+*	ROC AUC Curve
 
 ## Packages Installation
-•	pip install numpy
-•	pip install pandas
-•	pip install seaborn
-•	pip install scikit-learn
-•	pip install matplotlib
-•	pip install gradio
+*	pip install numpy
+*	pip install pandas
+*	pip install seaborn
+*	pip install scikit-learn
+*	pip install matplotlib
+*	pip install gradio
 
 ## Gradio UI
 
